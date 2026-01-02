@@ -46,6 +46,7 @@ This mapping is designed around Anki’s common/default shortcuts while reviewin
 
 ## 8bitDo Zero 2 Original Key mapping
 
+```
 8BitDo Zero 2 Controller Key,Keyboard Key Pressed (Original)
 D-Pad Up,c
 D-Pad Down,d
@@ -62,6 +63,7 @@ Start,o
 ```
 ## Modified 8bitDo Zero 2 Mapping for Anki
 
+```
 Original Button,Original Mapping (Key Sent),New Mapping (Key Output),Anki Behavior Description
 D-Pad Up,c,d,Deck: Back to the deck list.
 D-Pad Down,d,a,Add: Create a new card.
@@ -75,7 +77,7 @@ L Shoulder,k,b,Browse: Open the card browser.
 R Shoulder,m,e,Edit: Edit current card.
 Select,n,Space,Flip: Show answer/confirm.
 Start,o,Cmd+Z,Undo: Revert last grade.
-
+```
 ---
 
 ## Notes / gotchas (because reality is a gremlin)
